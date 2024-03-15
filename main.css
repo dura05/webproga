@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+    color: maroon;
+    font-family: Arial;
+    margin: 0px;
+}
+main {
+    background-color: white;
+    color: green;
+    font-family: Arial;
+    margin: 1px;
+}
+footer {
+    background-color: purple;
+    color: yellow;
+    font-family: Arial;
+    margin: 2px;
+}
